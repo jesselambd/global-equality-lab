@@ -1,0 +1,22 @@
+{
+  "name": "global-equality-lab",
+  "version": "0.1.0",
+  "description": "A public, open-source strategy laboratory for discovering scalable paths to global equality.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "keywords": [
+    "global-equality",
+    "strategy",
+    "open-source",
+    "vitepress"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
