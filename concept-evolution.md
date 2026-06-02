@@ -1,5 +1,13 @@
 # Concept Evolution
 
+## Plain-Language Introduction
+
+This is the more technical strategy record for Global Equality Lab.
+
+If you are new to the project, you may want to read [Start Here](/start-here) or the [plain-English summary](/plain-english-summary) first. This page keeps the deeper reasoning: what the original idea was, why it changed, what criticisms matter, and how the strategy evolves under pressure.
+
+The purpose is not to defend one favorite idea forever. The purpose is to track how the idea changes under criticism until the lab can choose an approach strong enough to build a real organization around.
+
 ## From Digital Rent Redistribution to a Multi-Lever Equality Framework
 
 The original concept centered on digital rent redistribution: identifying the concentrated economic rents created by platforms, data advantages, automation, networks, intellectual property, and digital infrastructure, then redirecting some of those gains toward people excluded from the upside.

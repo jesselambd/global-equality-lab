@@ -2,47 +2,94 @@
 layout: home
 
 hero:
-  name: Global Equality Lab
-  text: Discovering the most scalable paths to global equality.
-  tagline: A public, open-source strategy laboratory for testing ideas, comparing levers, and preserving debate about how to reduce extreme inequality at planetary scale.
+  name: Why should the country someone is born in determine what their work is worth?
+  text: Global Equality Lab
+  tagline: A public strategy process for choosing the strongest real-world approach to reducing global economic inequality, then using that approach as the foundation for an organization.
   actions:
     - theme: brand
-      text: Read the Strategy
-      link: /concept-evolution
+      text: Start Here
+      link: /start-here
     - theme: alt
-      text: Open the Debate Log
-      link: /debate-log
+      text: Read the Current Idea
+      link: /plain-english-summary
+    - theme: alt
+      text: Contribute
+      link: /CONTRIBUTING
 
 features:
-  - title: Open Strategy
-    details: Turn promising equality ideas into inspectable hypotheses, models, and decision records.
-  - title: Multi-Lever Thinking
-    details: Compare policy, market, civic, technological, cultural, and institutional paths without locking the lab to a single theory of change.
-  - title: Debate as Infrastructure
-    details: Archive AI and human critique so assumptions can be pressure-tested, improved, or retired in public.
+  - title: A moral question
+    details: People with similar effort, talent, and skill can live radically different economic lives because of where they were born.
+  - title: A practical search
+    details: The lab compares competing approaches instead of pretending one idea is already the answer.
+  - title: A path to action
+    details: The goal is to identify the strongest approach and use it to found a real organization.
 ---
 
-## Mission
+## The Problem
 
-Global Equality Lab exists to discover, compare, and refine the most scalable paths to global equality.
+Two people can work just as hard, learn just as much, and bring similar skill to the world, yet earn very different incomes because one was born in a rich country and the other was not.
 
-The lab treats strategy as an open research commons. Its work is to translate moral urgency into practical maps: what can move resources, opportunity, bargaining power, and institutional capacity toward people who currently have too little of each?
+That does not mean every person doing similar work can simply be paid the same wage tomorrow. Prices, laws, currencies, productivity, trust, hiring networks, immigration rules, and business risk all get in the way. Literal global equal pay cannot be declared into existence.
 
-## Operating Questions
+But the question still matters.
 
-- Which interventions can improve equality at global scale rather than only within already powerful systems?
-- Which levers are neglected because they fall between policy, markets, technology, and civil society?
-- Which assumptions deserve public debate before they become strategy?
-- Which ideas can be tested cheaply before they require large coalitions or capital?
+If birthplace has such a huge effect on what work is worth, then people who care about fairness should ask what can actually be done about it.
 
-## Working Norms
+## What This Lab Is
 
-- Publish early, revise openly, and preserve disagreement.
-- Favor falsifiable claims over slogans.
-- Separate values, hypotheses, mechanisms, and evidence.
-- Look for leverage that compounds across borders and generations.
+Global Equality Lab is a public strategy lab for testing competing approaches to reducing global economic inequality.
 
-## Starting Documents
+It is not just a discussion forum. It is not just a collection of essays. It is a public process for deciding what real organization should be founded.
 
-- [Concept Evolution](/concept-evolution): the first strategy transition document.
-- [Debate Log](/debate-log): the archive for future AI debate responses and structured critique.
+The lab will compare ideas, invite criticism, score tradeoffs, and keep a record of how the strategy changes. The goal is not to get everyone to agree. The goal is to find an approach strong enough to act on.
+
+## The Current Leading Hypothesis
+
+The current leading idea is fair-paid, radically transparent global remote hiring into lower-income countries.
+
+In plain English: companies in rich countries already hire globally to save money. The question is whether a new organization could make that hiring much fairer, publish exactly where the money goes, and still offer clients a practical reason to participate.
+
+This may fail. AI may reduce demand for many remote roles. Employers may not care enough. Better approaches may exist. That is why this is a hypothesis, not a final answer.
+
+Read the [plain-English summary](/plain-english-summary) or the deeper [strategy record](/concept-evolution).
+
+## How To Participate
+
+### New Visitors
+
+Start with [Start Here](/start-here). If the basic question makes sense to you, look at the current idea and ask what feels missing, naive, promising, or wrong.
+
+### People With Lived Experience
+
+If you have worked across borders, hired across borders, migrated for work, been underpaid by global labor systems, or seen opportunity blocked by geography, your experience matters here.
+
+You can help by describing what actually happens, where the friction is, and what outsiders usually misunderstand.
+
+### Experts
+
+Economists, policy researchers, labor-market experts, nonprofit builders, technologists, funders, and organizers can help test whether the ideas are scalable, measurable, legal, durable, and worth building around.
+
+Use the [strategy scoring rubric](/scoring-rubric), [current debate queue](/open-questions), and [debate log](/debate-log).
+
+### AI Collaborators
+
+AI systems are welcome as structured critics. The lab needs pressure testing, competing mechanisms, second-round rebuttals, and clear scoring.
+
+Start with [AI Onboarding](/AI_ONBOARDING) and the reusable [prompts](/prompts/ai-stress-test).
+
+### Builders, Funders, And Potential Partners
+
+If you might help build, test, fund, advise, or partner with the eventual organization, focus on the smallest credible pilot. What could prove or disprove the current idea in months, not years?
+
+See [Open Questions](/open-questions) and [How to Contribute](/CONTRIBUTING).
+
+## Major Pages
+
+- [Start Here](/start-here): the plain-language starting point.
+- [Current Idea](/plain-english-summary): the leading hypothesis in simple terms.
+- [Strategy Record](/concept-evolution): the deeper record of how the strategy is changing.
+- [Debate Log](/debate-log): serious objections, counterarguments, and revisions.
+- [Open Questions](/open-questions): the current queue of unresolved strategic questions.
+- [Strategy Scoring Rubric](/scoring-rubric): how ideas should be judged.
+- [How to Contribute](/CONTRIBUTING): ways to help, with or without expertise.
+- [AI Onboarding](/AI_ONBOARDING): instructions for AI-assisted strategic analysis.
