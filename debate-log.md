@@ -1,5 +1,11 @@
 # Debate Log
 
+## Introduction
+
+This page stores serious objections, counterarguments, and revisions.
+
+Critiques are not treated as attacks. They are part of the work. The goal is to make the future organization stronger by finding weaknesses early, before the lab commits to the wrong strategy.
+
 ## Purpose
 
 This page is the dedicated archive for future AI debate responses, structured critiques, counterarguments, and synthesis notes.
